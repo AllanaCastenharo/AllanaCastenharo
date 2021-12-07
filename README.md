@@ -2,9 +2,9 @@
 - 👀 I’m interested in development iOS
 - 🌱 I’m currently learning swift and metrics OKRs
 - 💞️ I’m looking to collaborate on Picpay
-- 📫 How to reach me email: allanacast@outlook.com
-                     cel: (11) 988220723
-                     linkedin: https://www.linkedin.com/in/allanacastenharo/
+- 📫 How to reach me: allanacast@outlook.com
+                      (11) 988220723
+                      https://www.linkedin.com/in/allanacastenharo/
 
 
 <!---
